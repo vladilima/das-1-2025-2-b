@@ -29,7 +29,7 @@ Acoplamento é o nível de dependência entre diferentes partes de um sistema, c
   - Princípio Liskov
 
 ## Aula 21/08
-### [Implementar o Design Pattern: Observer](https://github.com/vladilima/das-1-2025-2-b/blob/main/designpatterns/src/main/java/br/univille/observer/Client.java)
+### [Implementar o Design Pattern: Observer](designpatterns/src/main/java/br/univille/observer)
 
 ## Aula 25/08
 ### Padrões de Projeto Guru - Implementação Observer
@@ -53,4 +53,4 @@ Acoplamento é o nível de dependência entre diferentes partes de um sistema, c
 ### Fundamentos da Arquitetura de Software - Análise de Trade-offs
 
 ## Aula 15/09 e 18/09
-### Implementação do publisher e subscriber (tópico)
+### [Implementação do Publisher e Subscriber](eventos/src/main/java/br/univille)

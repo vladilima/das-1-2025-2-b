@@ -2,6 +2,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Subscriber",
+            "request": "launch",
+            "mainClass": "br.univille.Subscriber",
+            "projectName": "eventos",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
             "name": "Publisher",
             "request": "launch",
             "mainClass": "br.univille.Publisher",
