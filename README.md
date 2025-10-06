@@ -60,3 +60,11 @@ Análise de Trade-offs é o processo de avaliar as consequências das decisões 
 
 ## Aula 15/09 e 18/09
 ### [Implementação do Publisher e Subscriber](eventos/src/main/java/br/univille)
+
+# 2 Bimestre
+
+## Aula 06/10
+
+- [Definições das características arquiteturais](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/26[%3Bvnd.vst.idref%3Dcap4.xhtml]!/4)
+
+(Resumir Capítulo 4)
