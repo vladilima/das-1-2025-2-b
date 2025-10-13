@@ -1,4 +1,5 @@
 # DESIGN E ARQUITETURA DE SOFTWARE I
+### [Repositório do Professor](https://github.com/waltercoan/das-1-2025-2-b)
 
 ## Aula 31/07
 ### Padronização de código
@@ -68,3 +69,13 @@ Análise de Trade-offs é o processo de avaliar as consequências das decisões 
 - [Definições das características arquiteturais](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/26[%3Bvnd.vst.idref%3Dcap4.xhtml]!/4)
 
 (Resumir Capítulo 4)
+
+## Aula 09/10
+
+- [circuit-breaker](https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker)
+- [Definições das características arquiteturais](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/26[%3Bvnd.vst.idref%3Dcap4.xhtml]!/4)
+
+## Aula 13/10
+
+- [CQRS](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+- [Fundamentos dos Padrões de Arquiteturas](https://app.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/38%5B%3Bvnd.vst.idref%3Dcap9.xhtml%5D!/4)
