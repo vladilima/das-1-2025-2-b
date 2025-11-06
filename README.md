@@ -79,3 +79,19 @@ Análise de Trade-offs é o processo de avaliar as consequências das decisões 
 
 - [CQRS](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 - [Fundamentos dos Padrões de Arquiteturas](https://app.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/38%5B%3Bvnd.vst.idref%3Dcap9.xhtml%5D!/4)
+
+## Aula 16/10
+- [Retry Pattern]()
+- [Fundamentos dos Padrões de Arquiteturas]()
+
+## Aula 20/10 e 23/10
+- [Estilo de Arquitetura em Camadas]()
+
+## Aula 27/10 
+- [Estilo de Arquitetura em Pipeline]()
+
+## Aula 30/10
+Implementação de Pipelines
+
+## Aula 03/11
+- [Estilo de Arquitetura Microkernel]()
