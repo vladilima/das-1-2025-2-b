@@ -91,7 +91,10 @@ Análise de Trade-offs é o processo de avaliar as consequências das decisões 
 - [Estilo de Arquitetura em Pipeline]()
 
 ## Aula 30/10
-Implementação de Pipelines
+Implementação de Arquitetura de Pipelines
 
 ## Aula 03/11
 - [Estilo de Arquitetura Microkernel]()
+
+## Aula 06/11
+Implementação de Arquitetura Microkernel
