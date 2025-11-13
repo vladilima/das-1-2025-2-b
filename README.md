@@ -81,20 +81,26 @@ Análise de Trade-offs é o processo de avaliar as consequências das decisões 
 - [Fundamentos dos Padrões de Arquiteturas](https://app.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/38%5B%3Bvnd.vst.idref%3Dcap9.xhtml%5D!/4)
 
 ## Aula 16/10
-- [Retry Pattern]()
-- [Fundamentos dos Padrões de Arquiteturas]()
+- [Retry Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/retry)
+- [Fundamentos dos Padrões de Arquiteturas](https://app.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/38%5B%3Bvnd.vst.idref%3Dcap9.xhtml%5D!/4)
 
 ## Aula 20/10 e 23/10
-- [Estilo de Arquitetura em Camadas]()
+- [Estilo de Arquitetura em Camadas](https://app.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/40%5B%3Bvnd.vst.idref%3Dcap10.xhtml%5D!/4)
 
 ## Aula 27/10 
-- [Estilo de Arquitetura em Pipeline]()
+- [Estilo de Arquitetura em Pipeline](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/42%5B%3Bvnd.vst.idref%3Dcap11.xhtml%5D!/4)
 
 ## Aula 30/10
 Implementação de Arquitetura de Pipelines
 
 ## Aula 03/11
-- [Estilo de Arquitetura Microkernel]()
+- [Estilo de Arquitetura Microkernel](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/44%5B%3Bvnd.vst.idref%3Dcap12.xhtml%5D!/4)
 
 ## Aula 06/11
-Implementação de Arquitetura Microkernel
+Implementação de Arquitetura de Microkernel
+
+# Aula 10/11
+- [Estilo de Arquitetura Microsserviços](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/54%5B%3Bvnd.vst.idref%3Dcap17.xhtml%5D!/4)
+
+# Aula 13/11
+Implementação de Arquitetura de Microsserviços
