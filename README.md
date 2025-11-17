@@ -104,3 +104,6 @@ Implementação de Arquitetura de Microkernel
 
 # Aula 13/11
 Implementação de Arquitetura de Microsserviços
+
+# Aula 17/11
+Finalização da Implementação de Arquitetura de Microsserviços
